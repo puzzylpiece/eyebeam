@@ -16,3 +16,6 @@ A modernized, smooth retake on the classic MS-DOS typeface. Plans of expansions 
 - Add more styles (Light, italic, etc.)
 - Make a completely sans-serif / completely serif version
 - Make a proportional version that still follows a unit system, a la the IBM Selectric typewriter
+
+## YouTube video
+I also made a [YouTube video](https://youtu.be/VpuhzjiyVi0) talking about the font, if you're interestd
